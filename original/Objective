@@ -1,0 +1,5 @@
+ Objective
+•	To develop a C++ program to construct a Binary Search Tree (BST).
+•	To calculate the depth of a specified node in the tree.
+•	To understand tree traversal and recursive functions.
+•	To display the depth of the given node or indicate if the node is not found.
