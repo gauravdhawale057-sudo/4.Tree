@@ -1,0 +1,13 @@
+3. Algorithm
+1.	Start.
+2.	Define a node structure containing data, a left pointer, and a right pointer.
+3.	Create an empty Binary Search Tree.
+4.	Accept the number of nodes and their values from the user.
+5.	Insert the values into the BST.
+6.	Traverse the tree recursively and display the depth of every node, considering the root depth as 0.
+7.	Accept the node value whose depth is to be calculated.
+8.	Start searching from the root and initialize depth to 0.
+9.	Store the nodes visited to display the path from the root to the selected node.
+10.	If the node is found, display its path and depth.
+11.	If the node is not found, display Node not found in the tree.
+12.	Stop.
