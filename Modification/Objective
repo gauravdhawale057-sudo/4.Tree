@@ -1,0 +1,7 @@
+2. Objectives
+1.	To construct a Binary Search Tree using C++.
+2.	To calculate and display the depth of every node in the BST.
+3.	To display the path from the root node to a selected node.
+4.	To calculate the depth of a specified node using recursion.
+5.	To handle a node value that is not present in the tree.
+6.	To understand recursion, tree traversal, and BST operations
