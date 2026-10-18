@@ -1,0 +1,12 @@
+Algorithm
+1.	Start.
+2.	Define a structure for a tree node containing data, a left pointer, and a right pointer.
+3.	Create an empty Binary Search Tree.
+4.	Insert the elements into the tree.
+5.	Enter the value of the node whose depth is to be calculated.
+6.	Start searching from the root node with depth 0.
+7.	If the node is found, display its depth.
+8.	If the value is smaller than the current node, search the left subtree.
+9.	If the value is greater than the current node, search the right subtree.
+10.	If the node is not found, display an appropriate message.
+11.	Stop.
